@@ -1,2 +1,2 @@
 # Demo.first
-This is a Demo for Gir
+This is a Demo for Git
